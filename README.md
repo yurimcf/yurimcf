@@ -1,7 +1,7 @@
 # Olá, Bem Vindo!! Me chamo Yuri Mathaus👋
 
 - 💻 Sou estudante de Análise e Desenvolvimento de Sistemas - Pelo Centro Univesitário Senac
-- 🌱 Atualmente estou me expecializando em desenvolvimento Backend em JAVA ☕
+- 🌱 Atualmente estou me expecializando em desenvolvimento Backend em JAVA e Spring ☕
 ##
 <div>
 <!--           <a href="https://www.linkedin.com/in/yurimathaus" /> -->
