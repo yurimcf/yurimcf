@@ -5,8 +5,8 @@
 ##
 <div>
 <!--           <a href="https://www.linkedin.com/in/yurimathaus" /> -->
-        <img height=180em src= https://github-readme-stats.vercel.app/api?username=yurimcf&show_icons=true&count_private=true&theme=dracula>
-        <img height=180em  src= https://github-readme-stats.vercel.app/api/top-langs/?username=yurimcf&layout=compact&theme=dracula>
+<!--         <img height=180em src= https://github-readme-stats.vercel.app/api?username=yurimcf&show_icons=true&count_private=true&theme=dracula>
+        <img height=180em  src= https://github-readme-stats.vercel.app/api/top-langs/?username=yurimcf&layout=compact&theme=dracula> -->
 <!--         https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_pt-BR.md -->
 </div>
 
