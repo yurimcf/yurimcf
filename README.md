@@ -1,6 +1,6 @@
 # Olá, Bem Vindo!! Me chamo Yuri Mathaus👋
 
-- 💻 Sou estudante de Análise e Desenvolvimento de Sistemas - Pelo Centro Univesitário Senac
+- 💻 Sou formado em Análise e Desenvolvimento de Sistemas - Pelo Centro Univesitário Senac
 - 🌱 Atualmente estou me expecializando em desenvolvimento Backend em JAVA e Spring ☕
 ##
 <div>
@@ -14,8 +14,7 @@
 #### Linguagem que tenho conhecimento 
 
 <div style="display: inline_block"><br>
-        <img align="center" alt="Yuri-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
-        <img align="center" alt="Yuri-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
+        <img align="center" alt="Yuri-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
         <img align="center" alt="Yuri-postgres" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
 <div/>   
         
